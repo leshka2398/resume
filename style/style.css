@@ -24,8 +24,7 @@ p{
 	width: 100%;
 	height: 100vh;
 	min-height: 770px;
-	background: black
-	url(/img/bg.jpg) center no-repeat;
+	background: url(../img/bg.jpg) center no-repeat;
 	background-size: cover;
 	position: relative;
 	overflow: hidden;
